@@ -1,5 +1,5 @@
-Jean Lucas De Cesare - 1134871 
-Fabrício Vecchi Panisson - 1134808
+Jean Lucas De Cesare - RA - 1134871 
+Fabrício Vecchi Panisson - RA - 1134808
 
 API Flask com SQLite
 
